@@ -27,7 +27,9 @@ const headingStyle={
           <div className="hero-section-image">
             <figure>
               <img
-                src="images/hero.jpg"
+                // src="images/hero.jpg"
+                
+                 src="https://www.pngall.com/wp-content/uploads/2016/04/Shopping-Download-PNG.png"
                 alt="hero-section-photo"
                 className="img-style"
               />
