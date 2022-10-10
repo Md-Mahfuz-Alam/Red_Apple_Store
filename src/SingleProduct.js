@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const SingleProduct = () => {
-  return <h1 style={{color:"brown"}}>---This Page is not developed yet--- </h1>;
+  return <h1 style={{color:"brown"}}>---Details not available yet--- </h1>;
 };
 
 const Wrapper = styled.section`
